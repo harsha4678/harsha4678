@@ -10,6 +10,14 @@
 
 ---
 
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student
+- 💻 Passionate about **Web Development, AI/ML, Data Science**
+- 🌏 Based in **Telangana, India**
+- ✨ Always learning and exploring new technologies
+- 💬 Ask me about **Python, Java, Machine Learning, APIs, Backend Development**
+
 ## ⚒️ Our Technology Stack
 
 ### Programming Languages
@@ -73,6 +81,32 @@
 </p>
 
 ---
+
+## 📂 Projects
+
+Here’s an overview of my GitHub repositories:
+
+### 🔥 Featured Projects
+
+| Project | Description | Tech Stack | Repo |
+|---------|-------------|------------|------|
+| **Pregnancy Health Chatbot** | AI-powered chatbot for pregnancy health advice, appointments, diet plans, emergency features | Flask · SQLite · Gemini API · FastAPI | [View Project](https://github.com/harsha4678/pregnancy-health-chatbot) |
+| **Video Game Success Predictor** | Predicts game success using an ANN model, with SMOTE, dropout, and hyperparameter tuning | Python · Keras · Scikit-learn | [View Project](https://github.com/harsha4678/video-game-success-predictor) |
+| **Cloud Computing Notes App** | Simple app to store and retrieve notes from cloud storage | Flask · HTML/CSS · SQLite | [View Project](https://github.com/harsha4678/cloud-computing-notes-app) |
+
+*(Add more projects as desired with similar rows above!)*
+
+---
+
+## 🌱 Currently Learning
+
+- Spring Boot & Spring Security
+- Advanced Machine Learning
+- Docker & DevOps
+- REST API best practices
+
+---
+
 
 ## 🏆 Platforms & Achievements
 
