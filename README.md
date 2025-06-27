@@ -1,12 +1,21 @@
 <!-- Profile README for harsha4678 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+👋%2C+I'm+Harsha+Vardhan+Perumalla;Computer+Science+Student;Tech+Enthusiast+🚀;Open+Source+Contributor;Welcome+to+My+GitHub+Profile!+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsha+Vardhan+Perumalla;Computer+Science+Student;Tech+Enthusiast+%F0%9F%94%BB;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&desc=Explore%20my%20projects%20and%20tech%20stack!&descSize=20&descAlignY=65" />
-</p>
+
+
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student
+- 💻 Passionate about **Web Development, AI/ML, Data Science**
+- 🌏 Based in **Telangana, India**
+- ✨ Always learning and exploring new technologies
+- 💬 Ask me about **Python, Java, Machine Learning, APIs, Backend Development**
 
 ---
 
@@ -18,11 +27,6 @@
 
 ### Programming Languages
 
-- **Python**  
-- **Java**  
-- **C Language**  
-- **C++**  
-- **JavaScript**
 
 ---
 
@@ -32,11 +36,6 @@
 
 ### Frameworks & Libraries
 
-- **Django**
-- **React**
-- **HTML5**
-- **CSS3**
-- **Bootstrap**
 
 ---
 
@@ -46,11 +45,7 @@
 
 ### Data Science & Machine Learning
 
-- **Jupyter Notebook**
-- **NumPy**
-- **Pandas**
-- **TensorFlow**
-- **Keras**
+
 
 ---
 
@@ -60,9 +55,7 @@
 
 ### Databases
 
-- **PostgreSQL**
-- **MongoDB**
-- **MySQL**
+
 
 ---
 
@@ -72,9 +65,7 @@
 
 ### Cloud & DevOps
 
-- **Docker**
-- **Kubernetes**
-- **Git**
+
 
 ---
 
@@ -84,12 +75,9 @@
 
 ### Development Tools
 
-- **VS Code**
-- **GitHub**
-- **Linux**
+
 
 ---
-
 ## 🏆 Platforms & Achievements
 
 <p align="center">
@@ -121,6 +109,8 @@
 
 ---
 
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -134,16 +124,43 @@
 
 ---
 
-## 🌟 Let’s Connect!
+## 🏆 Badges & Achievements
 
-<p align="center">
-  <a href="https://github.com/harsha4678">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+![Hackathon](https://img.shields.io/badge/Hackathon-Participant-orange?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-Progress-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+
+---
+
+## 📂 Projects
+
+Here’s an overview of my GitHub repositories:
+
+### 🔥 Featured Projects
+
+| Project | Description | Tech Stack | Repo |
+|---------|-------------|------------|------|
+| **Pregnancy Health Chatbot** | AI-powered chatbot for pregnancy health advice, appointments, diet plans, emergency features | Flask · SQLite · Gemini API · FastAPI | [View Project](https://github.com/harsha4678/pregnancy-health-chatbot) |
+| **Video Game Success Predictor** | Predicts game success using an ANN model, with SMOTE, dropout, and hyperparameter tuning | Python · Keras · Scikit-learn | [View Project](https://github.com/harsha4678/video-game-success-predictor) |
+| **Cloud Computing Notes App** | Simple app to store and retrieve notes from cloud storage | Flask · HTML/CSS · SQLite | [View Project](https://github.com/harsha4678/cloud-computing-notes-app) |
+
+*(Add more projects as desired with similar rows above!)*
+
+---
+
+## 🌱 Currently Learning
+
+- Spring Boot & Spring Security
+- Advanced Machine Learning
+- Docker & DevOps
+- REST API best practices
+
+---
+
+## ✉️ Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsha4678)
 
 ---
 
