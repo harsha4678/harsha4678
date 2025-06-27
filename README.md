@@ -1,8 +1,14 @@
 <!-- Profile README for harsha4678 -->
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsha+Vardhan+Perumalla;Computer+Science+Student;Tech+Enthusiast+%F0%9F%94%BB;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+👋%2C+I'm+Harsha+Vardhan+Perumalla;Computer+Science+Student;Tech+Enthusiast+🚀;Open+Source+Contributor;Welcome+to+My+GitHub+Profile!+💻" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&desc=Explore%20my%20projects%20and%20tech%20stack!&descSize=20&descAlignY=65" />
+</p>
+
 
 
 
@@ -157,10 +163,16 @@ Here’s an overview of my GitHub repositories:
 
 ---
 
-## ✉️ Connect with Me
+## 🌟 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsha4678)
+<p align="center">
+  <a href="https://github.com/harsha4678">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
